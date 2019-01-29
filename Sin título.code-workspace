@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "appCanLoad"
+			"path": "angularmaterial"
 		},
 		{
-			"path": "deploy"
+			"path": "/Users/alumno/FullStackDeveloper-Group10/Angular/Clase16/appMaterial"
 		}
 	],
 	"settings": {}
